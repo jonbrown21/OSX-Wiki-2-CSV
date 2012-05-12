@@ -1,4 +1,4 @@
-#!/bin/sh -
+#!/bin/sh - 
 #
 # Script to extract data from an Apple WikiServer's data store by querying the
 # filesystem itself. Creates a 'wikipages.csv' file that's readable by any
